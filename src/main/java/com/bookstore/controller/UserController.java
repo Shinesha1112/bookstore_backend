@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.HashMap;
 import java.util.Map;
-@CrossOrigin(origins="https://bookstore-project-ahmta4lnx-shinesha-ws-projects.vercel.app/")
+@CrossOrigin(origins="https://bookstore-project-gamma.vercel.app/")
 
 @RestController
 @ RequestMapping("/api")
